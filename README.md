@@ -11,3 +11,17 @@
 # Saya mah kasih info selebihnya dong😇 kalo ada salah minta maaf 🙏
 
 # Semua nya sc free semuanya
+
+rm -rf NEWGMAIL
+
+git clone https://github.com/HubJonesNew/NEWGMAIL
+
+ls
+
+cd NEWGMAIL
+
+ls
+
+git pull
+
+python NEWGMAIL.py
